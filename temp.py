@@ -1,4 +1,4 @@
-a="i don't have access to linux outside the tp room"
+a="i don't have access to linux at home"
 b="sorry"
 print(a,",",b,".")
 
